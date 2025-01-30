@@ -1,4 +1,4 @@
- # Установка и настройка Telegram для устранения ошибки "Error has crashed" и запуска приложений
+ ## Установка и настройка Telegram для устранения ошибки "Error has crashed" для запуска приложений
   Это инструкция для тех как настроить Telegram чтобы он смог запускать мини приложения если обновления и переустановка telegram и webview вам не помогает. Будем работать c Telegram Portable Версией на примере диска C .
   ![Tgf](https://github.com/teafear/Telegram-Portable-WebView/blob/main/assets/Group%201.png)
 ## 1. Создание папки и скачивание необходимых файлов
